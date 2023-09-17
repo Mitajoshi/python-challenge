@@ -10,3 +10,5 @@ This assignment was very informative. I learned a lot of new things like:
     - how to push folders from local repo on my machines onto my online repo. 
 
 It was a lot of fun! Thanks for the opportunity.
+
+P.S. I do not have a clue why each file got copied in duplicate, one original and one as a 'copy'. 

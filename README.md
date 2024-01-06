@@ -1,5 +1,12 @@
 # python-challenge.
 
+## Overview
+This assignment focusses on financial analysis and election data processing. Detailed statistical analyses were performed to realize key metrics for calculations of profit/loss and election outcomes.
+
+
+## Purpose
+The purpose is to apply Python scripting skills to real-world scenarios, reinforcing data manipulation, and analysis techniques. PyBank emphasizes financial metrics computation, while PyPoll focuses on processing election data, providing a practical avenue for participants to enhance their problem-solving skills in Python.
+
 This assignment was very informative. I learned a lot of new things like:
     - how to clone a repo online and copy the same to my local machine github. 
     - how to read csv files into Python Code.
